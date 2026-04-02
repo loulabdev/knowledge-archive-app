@@ -58,7 +58,7 @@ export default function App() {
             name="Hub"
             component={HubPage}
             options={{
-              title: '지식서재',
+              title: '지식서가',
             }}
           />
 
